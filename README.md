@@ -10,6 +10,6 @@
 
 | 박유정 | 손성호 | 이승민 | 이재현 | 이종호 | 정여진 | 진현지 |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| | [<img src="https://github.com/SungHHo.png" width="100px">](https://github.com/SungHHo) | [<img src="https://github.com/miloul.png" width="100px">](https://github.com/miloul) | [<img src="https://github.com/fanta4715.png" width="100px">](https://github.com/fanta4715) | | | | [<img src="http://github.com/Catsmanager.png" width="100px">](http://github.com/Catsmanager)|
+| | [<img src="https://github.com/SungHHo.png" width="100px">](https://github.com/SungHHo) | [<img src="https://github.com/miloul.png" width="100px">](https://github.com/miloul) | [<img src="https://github.com/fanta4715.png" width="100px">](https://github.com/fanta4715) | | | | [<img src="https://github.com/Catsmanager.png" width="100px">](http://github.com/Catsmanager)|
 
 </div>
