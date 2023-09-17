@@ -15,12 +15,12 @@
 
 1. main 브렌치의 최신 커밋에서 자신의 브렌치를 만들고 체크아웃한다.
 2. main 브렌치에 체크아웃
-git switch main
+- git switch main
 3. 깃헙 원격 저장소에서 main 브렌치의 최신 버전을 가져옴.
 - 다른 사람이 main 브렌치에 새로운 커밋을 머지했을 수 있으니!
-git pull origin main
+- git pull origin main
 4. 0917_gang 브렌치를 만들면서 체크아웃
-git switch -c 0917_gang
+- git switch -c 0917_gang
 
 ### 작업이 끝나면 커밋하고, main 브렌치에 Merge한다.
    
