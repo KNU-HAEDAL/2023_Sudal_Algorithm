@@ -1,5 +1,3 @@
-<div align=center>
-
 ## 작업 방법
 1. main 브렌치의 최신 커밋에서 자신의 브렌치를 만들고 체크아웃한다.
     - 브렌치명 형식 : `날짜_이름`, ex) `0917_gang`
@@ -37,6 +35,8 @@ git merge 0917_gang
 git push origin main
 10. Merge가 끝나면 해당 작업 브렌치는 삭제한다.
 git branch -D 0917_gang
+
+<div align=center>
 
 ## 소모임 멤버
 
