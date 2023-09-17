@@ -1,3 +1,10 @@
+## 초기 세팅
+적당한 폴더를 vsc로 열어서 아래 코드를 입력한다.
+- git clone https://github.com/KNU-HAEDAL/2023_Sudal_Algorithm.git
+  - (git init은 안해도 된다고하네요!)
+<br>
+vsc 프로그램에 git graph라는 확장프로그램을 설치하면 git 상황을 시각적으로 볼 수 있습니다! 
+
 ## 작업 방법
 1. main 브렌치의 최신 커밋에서 자신의 브렌치를 만들고 체크아웃한다.
     - 브렌치명 형식 : `날짜_이름`, ex) `0917_gang`
