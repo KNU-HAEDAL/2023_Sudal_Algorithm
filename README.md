@@ -17,7 +17,7 @@
 2. main 브렌치에 체크아웃
 git switch main
 3. 깃헙 원격 저장소에서 main 브렌치의 최신 버전을 가져옴.
-    (다른 사람이 main 브렌치에 새로운 커밋을 머지했을 수 있으니)
+- 다른 사람이 main 브렌치에 새로운 커밋을 머지했을 수 있으니!
 git pull origin main
 4. 0917_gang 브렌치를 만들면서 체크아웃
 git switch -c 0917_gang
@@ -25,18 +25,18 @@ git switch -c 0917_gang
 ### 작업이 끝나면 커밋하고, main 브렌치에 Merge한다.
    
 5. 작업했던 모든 파일들(변경사항)을 새로운 커밋(버전)의 대상으로 만들어준다.
-git add .
+- git add .
 6. 새로운 커밋(버전)을 만든다. (커밋한다.)
-git commit -m "적절한 설명을 꼭 적어주세요."
-    ex) git commit -m "[FEAT] 9월 17일 직사각형 만들기"
+- git commit -m "적절한 설명을 꼭 적어주세요."
+    - ex) git commit -m "[FEAT] 9월 17일 직사각형 만들기"
 8. main 브렌치로 체크아웃한다.
-git switch main
+- git switch main
 9. 0917_gang 브렌치에서 작업했던 결과물(커밋)들을 현재 브렌치(main)에 머지한다.
-    git merge 0917_gang
+- git merge 0917_gang
 10. 작업했던 결과물(커밋)들을 깃허브에 반영(푸쉬)한다.
-git push origin main
+- git push origin main
 11. Merge가 끝나면 해당 작업 브렌치는 삭제한다.
-git branch -D 0917_gang
+- git branch -D 0917_gang
 
 <div align=center>
 
