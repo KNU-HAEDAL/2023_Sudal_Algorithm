@@ -2,6 +2,7 @@ def solution(n):
     answer = 0
     save_n = n
     current = 1
+    
     while current<=n:
         for i in range(current,n+1):
             save_n -= i
