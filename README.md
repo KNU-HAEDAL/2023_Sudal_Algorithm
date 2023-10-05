@@ -51,8 +51,7 @@ vsc 프로그램에 git graph라는 확장프로그램을 설치하면 git 상�
 
 | 김강민 | 권나예 | 구명준 | 구은성 | 김나현 |
 | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://github.com/dobbymin.png" width="100px">](https://github.com/dobbymin) | [<img src="https://github.com/Kwonnaye.png" width="100px">](https://github.com/Kwonnaye) | [<img src="https://github.com/Koo-EunSung.png" width="100px">](https://github.com/Koo-EunSung) | [<img src="https://github.com/999mj.png" width="100px">](https://github.com/999mj) |
-[<img src="https://github.com/Dansoeun.png" width="100px">](https://github.com/Dansoeun) |
+| [<img src="https://github.com/dobbymin.png" width="100px">](https://github.com/dobbymin) | [<img src="https://github.com/Kwonnaye.png" width="100px">](https://github.com/Kwonnaye) | [<img src="https://github.com/Koo-EunSung.png" width="100px">](https://github.com/Koo-EunSung) | [<img src="https://github.com/999mj.png" width="100px">](https://github.com/999mj) | [<img src="https://github.com/Dansoeun.png" width="100px">](https://github.com/Dansoeun) |
 
 | 김민주 | 박소정 | 박유정 | 박혜진 | 손성호 |
 | :---: | :--: | :--: | :---: | :---: |
