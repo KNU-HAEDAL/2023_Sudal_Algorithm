@@ -56,7 +56,7 @@ vsc 프로그램에 git graph라는 확장프로그램을 설치하면 git 상�
 
 | 김민주 | 박소정 | 박유정 | 박혜진 | 손성호 |
 | :---: | :--: | :--: | :---: | :---: |
-| [<img src="https://github.com/manjookim.png" width="100px">](https://github.com/manjookim) | [<img src="https://github.com/soParkjeong.png" width="100px">](https://github.com/soParkjeong) | [<img src="https://github.com/izoq78.png" width="100px">](https://github.com/izoq78)| [<img src="https://github.com/phj0446.png" width="100px">](https://github.com/phj0446) | [<img src="https://github.com/SungHHo.png" width="100px">](https://github.com/SungHHo) 
+| [<img src="https://github.com/manjookim.png" width="100px">](https://github.com/manjookim) | [<img src="https://github.com/soParkjeong.png" width="100px">](https://github.com/soParkjeong) | [<img src="https://github.com/izoq78.png" width="100px">](https://github.com/izoq78)| [<img src="https://github.com/phj0446.png" width="100px">](https://github.com/phj0446) | [<img src="https://github.com/SungHHo.png" width="100px">](https://github.com/SungHHo) |
 
 | 이승민 | 이재현 | 이종호 | 정여진 | 진현지 |
 | :---: | :--: | :---: | :---: | :--: |
