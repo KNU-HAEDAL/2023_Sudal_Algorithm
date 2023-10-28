@@ -1,5 +1,5 @@
 package a231008
-
+//https://www.acmicpc.net/problem/10282
 import java.util.*
 import kotlin.collections.ArrayList
 
