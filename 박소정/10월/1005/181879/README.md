@@ -1,1 +1,0 @@
-https://school.programmers.co.kr/learn/courses/30/lessons/181879//길이에 따른 연산
